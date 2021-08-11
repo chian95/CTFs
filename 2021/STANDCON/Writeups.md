@@ -10,7 +10,7 @@ Writeups for some of the challenges I solved during (and after) the 24-hour CTF 
 
 <br>
 
-File: generate.py
+File: [generate.py](Cryptography/Space_Papayas/generate.py)
 
 Inside the .py file, some values are provided:
 
@@ -48,7 +48,7 @@ Flag: `STC{where_did_my_space_papayas_go}`
 
 <br>
 
-File: transmission.txt
+File: [transmission.txt](Cryptography/Substitution_Extreme/transmission.txt)
 
 Opening the file:
 
@@ -111,7 +111,7 @@ Flag: `STC{L4sT_St4nD_B01s}`
 
 <br>
 
-File: liftoff.pass
+File: [liftoff.pass](Misc/liftoff.pass)
 
 Opening the file:
 
